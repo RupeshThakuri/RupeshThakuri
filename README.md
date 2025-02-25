@@ -1,4 +1,4 @@
-# 💫 About Me: 🔭 I’m currently working on E-commerce website <br>🧑‍🤝‍🧑 I’m looking to collaborate with the developers who is willing to solve the backend and frontend problem in Laravel<br>🤝I’m looking for help with backend integration and free hosting<br>📙 I’m currently learning backend in Laravel in mongo and express<br>💬 You can ask me about Next JS front end and backend database<br>⚡I Love playing football and represent my imagination in reality using coding<br> 
+ 💫 About Me: 🔭 I’m currently working on E-commerce website <br>🧑‍🤝‍🧑 I’m looking to collaborate with the developers who is willing to solve the backend and frontend problem in Laravel<br>🤝I’m looking for help with backend integration and free hosting<br>📙 I’m currently learning backend in Laravel in mongo and express<br>💬 You can ask me about Next JS front end and backend database<br>⚡I Love playing football and represent my imagination in reality using coding<br> 
 
 
 <br> <br>
